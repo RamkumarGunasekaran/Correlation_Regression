@@ -1,3 +1,5 @@
+# NAME: RAMKUMAR G
+# REG NO: 212223220084
 # Correlation and regression for data analysis
 # Aim : 
 
@@ -22,8 +24,7 @@ If y represents the dependent variable and x the independent variable, this rela
 # Program :
 
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
-
-
-# Result
-
 # Output 
+![pro ex03](https://github.com/prideeshm/Correlation_Regression/assets/144870483/f83f5459-c86a-48f0-902f-3d896c4b89ee)
+# Result
+The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
