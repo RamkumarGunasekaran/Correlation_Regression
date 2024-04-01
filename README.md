@@ -1,6 +1,6 @@
-# NAME: RAMKUMAR G
-# REG NO: 212223220084
-# Correlation and regression for data analysis
+                                                                NAME: RAMKUMAR G
+                                                                REG NO: 212223220084
+# EX-3: Correlation and regression for data analysis
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
